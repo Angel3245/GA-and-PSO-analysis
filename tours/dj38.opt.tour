@@ -1,0 +1,46 @@
+NAME: dj38.pc.opt.tour
+COMMENT: Found by pc_tsp [Arno Formella]
+COMMENT: Length 6659.43 (unrounded)
+TYPE: TOUR
+DIMENSION: 38
+TOUR_SECTION
+2
+1
+10
+14
+21
+29
+30
+32
+35
+37
+38
+33
+34
+36
+31
+27
+28
+24
+22
+25
+26
+23
+20
+15
+13
+16
+17
+18
+19
+11
+12
+9
+8
+7
+6
+5
+3
+4
+-1
+EOF
